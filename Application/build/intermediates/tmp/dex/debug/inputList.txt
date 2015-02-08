@@ -1,0 +1,6 @@
+C:\Users\john\Documents\GitHub\DisplayingBitmaps\Application\build\intermediates\classes\debug
+C:\Users\john\Documents\GitHub\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-60e2def6fd2b74e135b3ac31e0780d32f630c672.jar
+C:\Users\john\Documents\GitHub\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\classes-68187168f6d162dfb22fa5ef77c02daa00328f3b.jar
+C:\Users\john\Documents\GitHub\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\classes-ba11e40c7f8ea1fbee108f5dbc7c291e2b89d4a9.jar
+C:\Users\john\Documents\GitHub\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-920119c78de851cd30806550fe78dc388c9ea76c.jar
+C:\Users\john\Documents\GitHub\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\classes-7f243469528639ea7f511b1ca0c1e2c1dac8273e.jar
